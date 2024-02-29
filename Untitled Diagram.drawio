@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T08:50:02.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="iWPVJD2TtWw3xuI2rm9F" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T08:53:20.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="lXeSvKt-QnzQdGxK5VCs" version="23.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
         </mxCell>
         <mxCell id="zC8_6s-sbMNwt-oXkP13-88" value="User Authentication&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;- parent&#39;s login&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;- children&#39;s login&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="250" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zC8_6s-sbMNwt-oXkP13-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#66CC00;fontColor=#66CC00;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zC8_6s-sbMNwt-oXkP13-57" target="zC8_6s-sbMNwt-oXkP13-131">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zC8_6s-sbMNwt-oXkP13-57" value="Analytics&lt;br&gt;POWER BI" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="82.5" y="720" width="200" height="132" as="geometry" />
@@ -147,6 +150,12 @@
         </mxCell>
         <mxCell id="zC8_6s-sbMNwt-oXkP13-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.627;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zC8_6s-sbMNwt-oXkP13-115" target="zC8_6s-sbMNwt-oXkP13-111">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zC8_6s-sbMNwt-oXkP13-131" value="Send by email&amp;nbsp; to parents with advices for future development" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="68.75" y="960" width="227.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zC8_6s-sbMNwt-oXkP13-133" value="try to embed chat GPT custom connector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;labelBackgroundColor=#97D077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="55" y="870" width="265" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
